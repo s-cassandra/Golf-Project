@@ -35,10 +35,11 @@ console.log(golfScore(4, 1));  // "Hole-in-one!"
 ```
 ## Instructions
 1. **Clone or Download:** Download or clone the files from this repository to your local machine.
-2. **View in Browser:** Open the `index.html` file in your browser to view the registration form.
-Compatibility
-Language: JavaScript
+2. **View in Browser:** Open the `golf.js` file in your browser to view the programme.
 
-Browsers: Compatible with all modern browsers (Chrome, Firefox, Edge, Safari).
+---
 
-Node.js: Compatible with Node.js if running in a server-side JavaScript environment.
+## Compatibility
+- Language: JavaScript
+- Browsers: Compatible with all modern browsers (Chrome, Firefox, Edge, Safari).
+- Node.js: Compatible with Node.js if running in a server-side JavaScript environment.
